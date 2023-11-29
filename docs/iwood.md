@@ -3,8 +3,6 @@
 
 #
 
-# ![](RackMultipart20231128-1-i1e5cc_html_c20ee1815083f324.jpg)
-
 # Sumário
 
 [**1. Introdução 3**](#_uuccdz41x4g)
