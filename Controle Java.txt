@@ -1,0 +1,146 @@
+package Execontrole;
+
+public class Controle {
+	private String marca;
+	private String cor;
+	private int volume;
+	private int canal;
+	private boolean power;
+	
+	public Controle(String m, String c, int v, int can, boolean pow)
+	{
+		this.ligar();
+		this.marca=m;
+		this.cor=c;
+		this.volume=v;
+		this.canal=can;
+		this.power=pow;
+	}
+	void status(){
+		System.out.print("\nMarca: " + this.marca );
+		System.out.print("\n - Cor: " + this.cor );
+		System.out.print("\n - Está no volume: " + this.volume );
+		System.out.print("\n - Você está no canal: " + this.canal );
+		System.out.print("\n Está ligada: " + this.power );
+	}
+	public String getMarca(){
+		return this.marca;
+		}
+	public void setMarca(String m) {
+		this.marca=m;
+	}
+	
+	public String getCor(){
+		return this.cor;
+		}
+	public void setCor(String c) {
+		this.cor=c;
+	}
+	
+	public int getVolume(){
+		return this.volume;
+		}
+public void setVolume(int v) {
+		this.volume=v;
+	}
+
+	public int getCanal(){
+		return this.canal;
+		}
+public void setCanal(int can) {
+	this.canal=can;
+	}
+
+	public boolean getPower(){
+		return this.power;
+		}
+	public void setPower(boolean pow) {
+		this.power=pow;
+	}
+	
+	void ligar() {
+		this.power = true;
+	}
+	void desliga(){
+		this.power = false;
+	}
+	
+	void aumentar() {
+		if (this.power == false) {
+			System.out.println("O volume não pode ser aumentado");
+		}
+		else if (this.power == true) {
+			volume++;
+		}
+	}
+	void diminuir() {
+		if (this.power == false) {
+			System.out.println("O volume não pode ser diminuido");
+		}
+		else if (this.power == true) {
+			volume--;
+		}
+	}
+	void channelup() {
+		if (this.power == false) {
+			System.out.println("O canal não pode ser mudado");
+		}
+		else if (this.power == true) {
+			canal++;
+		}
+	}
+	void channeldown() {
+		if (this.power == false) {
+			System.out.println("O canal não pode ser mudado");
+		}
+		else if (this.power == true) {
+			canal--;
+		}
+	}
+
+}
+______________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+package Execontrole;
+
+public class Execontrole {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Controle c1 = new Controle("Esteloide","cinza",3,2,false);
+		c1.setMarca("Amineia");
+		c1.setCor("Preto");
+		c1.setVolume(5);
+		c1.setCanal(12);
+		c1.setPower(true);
+		c1.status();
+		c1.aumentar();
+		c1.status();
+		c1.diminuir();
+		c1.status();
+		c1.channeldown();
+		c1.status();
+		c1.channelup();
+		c1.status();
+		c1.desliga();
+		c1.status();
+
+	}
+
+}
