@@ -163,17 +163,3 @@ Cada uma dessas partes interessadas desempenha um papel fundamental no suc
 ## 2.3 Objetivos
 
 Liste os principais objetivos do projeto, descrevendo o que se pretende alcançar com o desenvolvimento e implementação do software. Os objetivos devem ser específicos, mensuráveis, alcançáveis, relevantes e temporais (SMART).
-
-## 3. Principais Recursos e Funcionalidades
-
-- Cadastro de Usuários e Prestadores de serviços;
-- Resultados rápidos de pesquisa e filtragem de serviços, com base em critérios como preço, avaliação do prestador de serviço, e disponibilidade;
-- Agendamento de serviços através do aplicativo, selecionando datas e horários disponíveis;
-- Reservas e confirmações: envio de notificações aos prestadores de serviço sobre novas reservas e confirmação de agendamento;
-- Métodos de pagamento: Oferece opções de pagamento seguro aos usuários, como cartão de débito ou de crédito, PayPal ou PicPay;
-- Avaliações e Classificações: o aplicativo oferece um recurso de avaliação e classificação ao prestador de serviço, após a conclusão do serviço;
-- Mantém registro de todos os serviços contratados, incluindo detalhes das transações anteriores;
-- Oferece um programa de recompensas aos clientes, para incentivar a fidelidade;
-- Oferece suporte ao cliente, sobre problemas, perguntas ou reclamações;
-
-##
