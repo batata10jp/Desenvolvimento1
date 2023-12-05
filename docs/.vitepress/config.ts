@@ -28,6 +28,14 @@ export default defineConfig({
         items: [
           { text: 'Iwood', link: '/iwood.md' },
           { text: 'Descrição do projeto', link: '/iwood2.md' },
+          { text: 'FUncionalidades', link: '/iwood3.md' },
+          { text: 'Casos de uso', link: '/iwood4.md' },
+          { text: 'Deiagramas de classe', link: '/iwood5.md' },
+          { text: 'Protótipos de tela', link: '/iwood6.md' },
+          { text: 'Cronograma', link: '/iwood7.md' },
+          { text: 'Riscos e Mitigação', link: '/iwood8.md' },
+          { text: 'Custos e Orçamento', link: '/iwood9.md' },
+          { text: 'Considerações finais', link: '/iwood10.md' },
           // ...
         ],
       },
