@@ -65,6 +65,14 @@ _RN.006 -_ Para implementação do Programa de Recompensas:
 - Os pontos de recompensa não devem expirar rapidamente, permitindo que tenham tempo suficiente para acumulá-los e resgatá-los.
 - O sistema deve garantir a integridade do programa de recompensas, evitando fraudes, manipulações ou abusos.
 
+**RF.007 - O sistema deve permitir a interação do usuário com o chat AI fazendo a retirada de dúvidas sobre o aplicativo, profissional e serviço.**
+
+_RN.007 -_ Para responder dúvidas e informações:
+
+- Os usuários devem ser capazes de fazer perguntas no chat AI.
+- Os usuários devem ser capazes de fazer diversas perguntas em sequencia.
+- O sistema deve responder de forma conexa com as informações já requisitadas pelo usuário.
+
 ## 3.2 Requisitos Não Funcionais
 
 **RNF.001 - Desempenho:** O aplicativo deve apresentar uma interface responsiva, e com carregamento de informações rápidas.
