@@ -26,7 +26,7 @@ A visão geral do projeto para o I Wood é criar uma solução abrangente que sa
 
 ## 2.1.1 Canvas do Projeto
 
-![Canvas do Projeto](https://i.ibb.co/q9qBnYq/Modelo-Canvas.png)
+![Canvas do Projeto](https://i.ibb.co/j3NPXmq/Grupo-Amanda-Allana-J-o-e-Kaue.png)
 
 Link:
 
