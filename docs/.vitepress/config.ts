@@ -27,6 +27,7 @@ export default defineConfig({
         // text: 'Guide',
         items: [
           { text: 'Iwood', link: '/iwood.md' },
+          { text: '2', link: '/iwood2.md' },
           // ...
         ],
       },
