@@ -1,8 +1,8 @@
 ## 5. Diagrama de Classes
 
-![Diagrama de Classes](https://i.ibb.co/wCzQvPp/imagem-2023-11-28-231659596.png)
+![Diagrama de Classes](https://i.ibb.co/c14kjLH/Diagrama-de-Classes.png)
 
-Link: [Diagrama de Classes](https://lucid.app/lucidchart/cddddec4-714e-4a94-9e53-45e370845014/edit?viewport_loc=-175%2C-341%2C2530%2C1915%2CHWEp-vi-RSFO&invitationId=inv_a10d9bc1-12c9-4748-ab41-4d787a7f8e28)
+Link: [Diagrama de Classes](https://lucid.app/lucidchart/cddddec4-714e-4a94-9e53-45e370845014/edit?invitationId=inv_a10d9bc1-12c9-4748-ab41-4d787a7f8e28&page=HWEp-vi-RSFO#)
 
 +------------------+
 
