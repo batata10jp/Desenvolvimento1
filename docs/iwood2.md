@@ -92,6 +92,10 @@ Aquisição de materiais, se necessário: Compra de materiais e suprimentos para
 
 Marketing e promoção dos serviços: Estratégias de marketing para atrair novos clientes e promover os serviços oferecidos.
 
+- Chat com Inteligência Artificial: Descrições de serviços e recomendações de profissionais, solução de dúvidas e auxílio com o uso do aplicativo.
+
+- Match Finder de Profissionais: Velocidade no encontro de profissionais e facilidade na disponibilização de profissionais.
+
 **Parcerias-Chave:**
 
 Fornecedores de materiais de construção (para descontos): Parcerias com fornecedores para obter descontos em materiais e suprimentos.
