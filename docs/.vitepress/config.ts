@@ -28,9 +28,9 @@ export default defineConfig({
         items: [
           { text: 'Iwood', link: '/iwood.md' },
           { text: 'Descrição do projeto', link: '/iwood2.md' },
-          { text: 'FUncionalidades', link: '/Iwood3.md' },
+          { text: 'Funcionalidades', link: '/Iwood3.md' },
           { text: 'Casos de uso', link: '/Iwood4.md' },
-          { text: 'Deiagramas de classe', link: '/Iwood5.md' },
+          { text: 'Diagrama de classe', link: '/Iwood5.md' },
           { text: 'Protótipos de tela', link: '/Iwood6.md' },
           { text: 'Cronograma', link: '/Iwood7.md' },
           { text: 'Riscos e Mitigação', link: '/Iwood8.md' },
