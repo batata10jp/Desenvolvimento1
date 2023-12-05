@@ -73,6 +73,14 @@ _RN.007 -_ Para responder dúvidas e informações:
 - Os usuários devem ser capazes de fazer diversas perguntas em sequencia.
 - O sistema deve responder de forma conexa com as informações já requisitadas pelo usuário.
 
+**RF.008 - O sistema deve permitir o encontro de profissionais da área especificada e contatar o usuário**
+
+_RN.008 -_ Para encontrar profissionais específicos:
+
+- Os usuários devem ser capazes de responder um formulário de requisitos e enviar para a base de dados.
+- O sistema deve pegar da base de dados um profissional com os requisitos especificados e enviar uma requisição.
+- O sistema deve esperar a resposta da requisição, assim que acontecer informar o usuário.
+
 ## 3.2 Requisitos Não Funcionais
 
 **RNF.001 - Desempenho:** O aplicativo deve apresentar uma interface responsiva, e com carregamento de informações rápidas.
