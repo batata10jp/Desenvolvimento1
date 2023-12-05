@@ -1,0 +1,37 @@
+## 7. Cronograma e Entrega
+
+- **Fase 1: Planejamento (2 semanas)**
+  - Definição dos objetivos e escopo do projeto (Semana 1)
+  - Levantamento de requisitos e especificações (Semana 1-2)
+  - Análise de mercado e pesquisa de concorrentes (Semana 2)
+  - Criação do documento de especificações técnicas e funcionais (Semana 2)
+  - Revisão e aprovação do plano de projeto (Semana 2)
+  - Milestone 1: Conclusão da Fase de Planejamento (Semana 2)
+- **Fase 2: Design (4 semanas)**
+  - Criação de wireframes e protótipos de interface (Semana 3-4)
+  - Design de interface de usuário (UI) e experiência de usuário (UX) (Semana 4-5)
+  - Revisão e aprovação do design (Semana 5)
+  - Preparação dos assets gráficos (Semana 5-6)
+  - Milestone 2: Conclusão da Fase de Design (Semana 6)
+- **Fase 3: Desenvolvimento (10 semanas)**
+  - Configuração do ambiente de desenvolvimento (Semana 7)
+  - Desenvolvimento do front-end (Semana 7-9)
+  - Desenvolvimento do back-end (Semana 9-11)
+  - Implementação de recursos e funcionalidades (Semana 11-13)
+  - Testes de unidade e integração (Semana 13-14)
+  - Milestone 3: Conclusão da Fase de Desenvolvimento (Semana 14)
+- **Fase 4: Testes e Qualidade (6 semanas)**
+  - Testes de aceitação do usuário (UAT) (Semana 15-16)
+  - Correção de bugs e melhorias (Semana 16-17)
+  - Testes de desempenho e segurança (Semana 17-18)
+  - Preparação para o lançamento (Semana 18-19)
+  - Milestone 4: Conclusão da Fase de Testes e Qualidade (Semana 19)
+- **Fase 5: Lançamento e Pós-lançamento (4 semanas)**
+  - Lançamento da versão beta (Semana 20)
+  - Coleta de feedback dos usuários (Semana 20-21)
+  - Ajustes com base no feedback (Semana 21-22)
+  - Lançamento oficial do aplicativo (Semana 23)
+  - Milestone 5: Conclusão da Fase de Lançamento (Semana 23)
+- **Fase 6: Manutenção e Atualização Contínua**
+  - Monitoramento e suporte aos usuários (a partir da semana 24)
+  - Implementação de atualizações e melhorias regulares (a partir da semana 24)
