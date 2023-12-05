@@ -1,6 +1,6 @@
 ## 4. Diagrama de Caso de Uso
 
-![Diagrama de Casos de Uso]([https://i.ibb.co/LpG7VJX/Diagrama-de-casos-de-usos-IWood.jpg](https://ibb.co/QHVwG7G))
+![Diagrama de Casos de Uso](https://i.ibb.co/pKTFp6p/C-pia-do-Diagrama-de-casos-de-usos-IWood-drawio.png)
 
 Link do Diagrama de Caso de Uso: [Acesse Aqui]([https://drive.google.com/file/d/1E7OHgORj63XJFvxWMPzSG-NpbBqsXuoN/view?usp=sharing](https://drive.google.com/file/d/17SXzfzXAb5BezmkyDFa51TL_rGzR4J8i/view?usp=sharing))
 
